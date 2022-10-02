@@ -5,11 +5,13 @@ In this exercise we created a graphic, with the use of CSS, and added movement. 
 
 **CHECK IT OUT!**
 
-Simply load the page and move your mouse around.  You will see the creep eyes follow your lead!
+HOW TO RUN: Simply load the page and move your mouse around.  You will see the creep eyes follow your lead!
 
-Moving forward, this is a great base for modifying the image in color, size, added features and still maintain that User Input.
+ROADMAP FOR FUTURE IMPROVEMENTS:  Moving forward, this is a great base for modifying the image in color, size, added features and still maintain that User Input.
 
 
+
+LICENSE INFORMATION:
 
 MIT License
 
