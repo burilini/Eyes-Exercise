@@ -3,7 +3,8 @@ MIT xPro - Module 8
 
 In this exercise we created a graphic, with the use of CSS, and added movement.  It demonstrated how to create movement with user input.  As you move your mouse, the eyes both follow the mouse trace.  I also was able to modify the size of the features and colors as I manipulated the CSS-styles.  I am familiar and have experience in the manipulation of graphic and color as a designer, but the UI was new for me. 
 
-**CHECK IT OUT**
+**CHECK IT OUT!**
+
 Simply load the page and move your mouse around.  You will see the creep eyes follow your lead!
 
 Moving forward, this is a great base for modifying the image in color, size, added features and still maintain that User Input.
